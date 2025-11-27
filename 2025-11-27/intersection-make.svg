@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200mm"
+   height="875mm"
+   viewBox="0 0 1200 875"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1200"
+       height="875"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="background"
+       width="1200"
+       height="875"
+       x="0"
+       y="0"
+       inkscape:label="background" />
+    <path
+       style="fill:#ff5454;fill-opacity:1;stroke:#ff5454;stroke-width:37.7953;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 2209.7147,2426.6642 c -169.8652,-174.3277 -272.6711,-384.1388 -308.5122,-629.626 -8.5049,-58.2529 -9.7213,-213.8393 -2.1174,-270.8408 7.1089,-53.2908 22.8476,-129.5214 36.6291,-177.4134 38.8109,-134.8712 114.9303,-281.1639 203.9379,-391.9452 34.3214,-42.71743 120.4345,-130.47387 128.0475,-130.49109 7.5899,-0.0172 93.4523,87.65152 127.8024,130.49109 251.35,313.4693 316.0766,731.7147 170.2393,1100.0406 -42.6872,107.8108 -98.039,203.3232 -169.0619,291.7249 -24.2259,30.1539 -124.605,134.4319 -129.4056,134.4319 -1.4466,0 -27.3482,-25.3674 -57.5591,-56.372 z"
+       id="path13"
+       transform="scale(0.26458333)"
+       inkscape:label="intersection" />
+    <path
+       id="circle1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="circle1"
+       d="M 405.00009,137.50013 A 300,300 0 0 0 104.99979,437.49991 300,300 0 0 0 405.00009,737.5002 300,300 0 0 0 599.99955,664.65659 300,300 0 0 1 494.99976,437.49991 300,300 0 0 1 599.99955,210.34375 300,300 0 0 0 405.00009,137.50013 Z m 194.99946,72.84362 A 300,300 0 0 1 704.99986,437.49991 300,300 0 0 1 599.99955,664.65659 300,300 0 0 0 795.00005,737.5002 300,300 0 0 0 1094.9998,437.49991 300,300 0 0 0 795.00005,137.50013 300,300 0 0 0 599.99955,210.34375 Z" />
+  </g>
+</svg>
