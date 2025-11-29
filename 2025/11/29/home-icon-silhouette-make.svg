@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="home-icon-silhouette-make.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="800"
+       height="800"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,1,1,0,32.615433,0,1 @ F,0,0,1,0,27.558269,0,1 @ F,0,1,1,0,32.615433,0,1 @ F,0,1,1,0,32.615433,0,1 @ F,0,0,1,0,27.558269,0,1 @ F,0,0,1,0,32.615433,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,15.652243,0,1 @ F,0,0,1,0,46.857073,0,1 @ F,0,0,1,0,46.857073,0,1 @ F,0,0,1,0,15.652243,0,1 @ F,0,0,1,0,47.061313,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       id="room"
+       style="fill:#000000;fill-opacity:1;stroke:#1e5454;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 152.87494,489.53561 c -0.26461,47.1515 -1.00234,189.16314 -0.73929,263.67702 C 152.22689,779.05648 173.94404,800 199.82248,800 l 403.32045,0 A 46.857073,46.857073 135 0 0 650,753.14293 V 495.46669 A 35.238412,35.238412 66.050103 0 0 638.38645,469.32073 L 434.91824,285.47176 a 52.466776,52.466776 0.20893919 0 0 -70.06567,-0.25551 L 164.65518,463.47489 c -6.45608,5.74859 -11.73172,17.41636 -11.78024,26.06072 z M 339.14141,618.63659 H 473.43976 V 800 H 339.14141 Z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:path-effect="#path-effect6"
+       inkscape:original-d="m 152.96541,473.88363 c 0,0 -1.99253,328.19462 0,326.11637 H 650 V 479.81445 L 400,253.92048 Z m 186.176,144.75296 H 473.43976 V 800 H 339.14141 Z" />
+    <path
+       id="roof"
+       style="fill:#000000;fill-opacity:1;stroke:#1e5454;stroke-width:0;paint-order:fill markers stroke"
+       d="M 686.95372,388.68089 421.18708,167.62288 a 32.02566,32.02566 179.04064 0 0 -41.77224,0.6995 l -229.4779,204.253 a 32.518546,32.518546 3.4136829 0 1 -45.9748,-2.74242 l -7.100464,-8.02531 a 32.61851,32.61851 93.496207 0 1 2.812961,-46.04151 L 379.36215,68.263001 a 31.833506,31.833506 179.37625 0 1 41.66842,-0.453643 L 736.06571,334.59113 a 31.502728,31.502728 86.253197 0 1 2.96141,45.22105 l -5.06988,5.582 a 34.067297,34.067297 176.00012 0 1 -47.00352,3.28671 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:path-effect="#path-effect7"
+       inkscape:original-d="M 712.0288,409.53771 400,150 125.57424,394.26006 75.249572,337.38055 400,50 760.95556,355.66865 Z"
+       transform="translate(0,18.316091)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#1e5454;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="chimney"
+       height="200"
+       x="534.16779"
+       y="65.914421"
+       width="80"
+       onmouseover="100"
+       rx="40"
+       ry="40" />
+  </g>
+</svg>
