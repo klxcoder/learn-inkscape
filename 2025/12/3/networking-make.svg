@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="225"
+   height="225"
+   viewBox="0 0 225 225"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="225"
+       height="225"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="212.5,112.5"
+       origin="112.5,112.5"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       method="normal"
+       num_copies="4"
+       starting_angle="0"
+       rotation_angle="90"
+       gap="0"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false"
+       link_styles="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e58080;stroke-width:0"
+       id="rect1"
+       width="225"
+       height="225"
+       x="0"
+       y="0"
+       inkscape:label="background" />
+    <g
+       id="g2"
+       inkscape:label="group"
+       inkscape:path-effect="#path-effect2">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#9aa0a6;stroke-width:8.66922;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2"
+         width="1.3307788"
+         height="151.33078"
+         x="111.83461"
+         y="36.83461"
+         inkscape:label="rect"
+         sodipodi:type="rect"
+         d="m 111.83461,36.83461 h 1.33078 v 151.33078 h -1.33078 z m -75,76.33078 v -1.33078 h 151.33078 v 1.33078 z m 76.33078,75 h -1.33078 V 36.83461 h 1.33078 z m 75,-76.33078 v 1.33078 H 36.83461 v -1.33078 z" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#9aa0a6;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1"
+         inkscape:label="big-circle"
+         sodipodi:type="arc"
+         sodipodi:cx="112.5"
+         sodipodi:cy="112.5"
+         sodipodi:rx="35"
+         sodipodi:ry="35"
+         d="m 147.5,112.5 c 0,19.32997 -15.67003,35 -35,35 -19.329966,0 -35,-15.67003 -35,-35 0,-19.329966 15.670034,-35 35,-35 19.32997,0 35,15.670034 35,35 z m -35,-35 c 19.32997,0 35,15.670034 35,35 0,19.32997 -15.67003,35 -35,35 -19.329966,0 -35,-15.67003 -35,-35 0,-19.329966 15.670034,-35 35,-35 z m -35,35 c 0,-19.329966 15.670034,-35 35,-35 19.32997,0 35,15.670034 35,35 0,19.32997 -15.67003,35 -35,35 -19.329966,0 -35,-15.67003 -35,-35 z m 35,35 c -19.329966,0 -35,-15.67003 -35,-35 0,-19.329966 15.670034,-35 35,-35 19.32997,0 35,15.670034 35,35 0,19.32997 -15.67003,35 -35,35 z" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#9aa0a6;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-3"
+         inkscape:label="small-circle"
+         sodipodi:type="arc"
+         sodipodi:cx="112.5"
+         sodipodi:cy="35.862289"
+         sodipodi:rx="20"
+         sodipodi:ry="20"
+         d="m 132.5,35.862289 c 0,11.045695 -8.95431,20 -20,20 -11.04569,0 -20,-8.954305 -20,-20 0,-11.045695 8.95431,-20 20,-20 11.04569,0 20,8.954305 20,20 z M 35.862289,92.5 c 11.045695,0 20,8.95431 20,20 0,11.04569 -8.954305,20 -20,20 -11.045695,0 -20,-8.95431 -20,-20 0,-11.04569 8.954305,-20 20,-20 z M 92.5,189.13771 c 0,-11.04569 8.95431,-20 20,-20 11.04569,0 20,8.95431 20,20 0,11.0457 -8.95431,20 -20,20 -11.04569,0 -20,-8.9543 -20,-20 z M 189.13771,132.5 c -11.04569,0 -20,-8.95431 -20,-20 0,-11.04569 8.95431,-20 20,-20 11.0457,0 20,8.95431 20,20 0,11.04569 -8.9543,20 -20,20 z" />
+    </g>
+  </g>
+</svg>
