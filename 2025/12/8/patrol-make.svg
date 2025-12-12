@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="225"
+   height="225"
+   viewBox="0 0 225 225"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showguides="true">
+    <sodipodi:guide
+       position="112.5,112.5"
+       orientation="-1,0"
+       id="guide13"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="62.5,112.5"
+       orientation="-1,0"
+       id="guide14"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="162.5,112.5"
+       orientation="-1,0"
+       id="guide15"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="112.5,112.5"
+       orientation="0,-1"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="90.44499,78.706463"
+       orientation="0,1"
+       id="guide18"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="89.456521,23.276027"
+       orientation="0,1"
+       id="guide19"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="225"
+       height="225"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="212.5,87.788254"
+       origin="112.5,87.788254"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       method="normal"
+       num_copies="4"
+       starting_angle="0"
+       rotation_angle="90"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.4205447,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#293475;stroke-width:0;stroke-dasharray:none"
+       id="rect1"
+       width="225"
+       height="225"
+       x="0"
+       y="0"
+       inkscape:label="background"
+       sodipodi:type="rect"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#293475;stroke-width:10;stroke-dasharray:none"
+       d="m 62.5,162.5 44.75288,-44.75288 c 2.89791,-2.89791 7.59633,-2.89791 10.49424,0 L 162.5,162.5 m 24.71175,-24.71175 -44.75289,-44.752879 c -2.8979,-2.897902 -2.8979,-7.596332 0,-10.494234 L 187.21175,37.788254 M 162.5,13.076508 117.74712,57.829391 c -2.89791,2.897902 -7.59633,2.897902 -10.49424,0 L 62.5,13.076508 M 37.788254,37.788254 82.541137,82.541137 c 2.897902,2.897902 2.897902,7.596332 0,10.494234 L 37.788254,137.78825"
+       id="path8"
+       inkscape:path-effect="#path-effect9;#path-effect22"
+       inkscape:original-d="m 62.5,162.5 50,-50 50,50"
+       inkscape:label="arrow"
+       sodipodi:nodetypes="ccc"
+       transform="translate(0,35.688439)" />
+  </g>
+</svg>
