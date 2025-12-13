@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="1200"
+   viewBox="0 0 1200 1200"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="house-make.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:export-bgcolor="#ffffffff"
+     showguides="true">
+    <sodipodi:guide
+       position="600,600"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="600,600"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1200"
+       height="1200"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="600.00002,90.483641"
+       end_point="600.00002,1068.0013"
+       center_point="600.00002,579.24247"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+  </defs>
+  <rect
+     style="display:inline;fill:#c5cae8;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+     id="rect2-2"
+     width="131.65504"
+     height="302.76053"
+     x="791.90826"
+     y="197.98204"
+     inkscape:label="chimney"
+     sodipodi:type="rect"
+     d="M -41.999996,929 H 339.92646 v 178.9322 H -41.999996 Z M 1242,929 H 860.07358 v 178.9322 H 1242 Z"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g15"
+       inkscape:label="left"
+       inkscape:path-effect="#path-effect15">
+      <path
+         style="display:inline;fill:#c5cae8;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect2"
+         width="381.92645"
+         height="178.93216"
+         x="218.07356"
+         y="889.06915"
+         inkscape:label="base"
+         sodipodi:type="rect"
+         d="M 218.07356,889.06915 H 600.00002 V 1068.0013 H 218.07356 Z m 763.85292,0 H 600.00002 v 178.93215 h 381.92646 z" />
+      <path
+         d="M 600,195.70703 216.18359,503.01758 V 889.06836 H 600 Z m 4e-5,0 383.81641,307.31055 V 889.06836 H 600.00004 Z"
+         style="fill:#e8eaf6;stroke:#000000;stroke-width:0"
+         id="path12"
+         inkscape:label="main"
+         inkscape:original-d="M 600,195.70703 216.18359,503.01758 V 889.06836 H 600 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="display:inline;fill:#d74315;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect5"
+         width="112.62215"
+         height="335.49783"
+         x="487.37784"
+         y="732.50348"
+         inkscape:label="door"
+         sodipodi:type="rect"
+         d="M 487.37784,732.50348 H 599.99998 V 1068.0013 H 487.37784 Z m 225.24436,0 H 600.00006 V 1068.0013 H 712.6222 Z" />
+      <path
+         style="display:inline;fill:#00579c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect4"
+         width="99.84861"
+         height="126.10937"
+         x="499.09085"
+         y="488.41937"
+         inkscape:label="window"
+         sodipodi:type="rect"
+         d="m 499.09085,488.41937 h 99.84861 v 126.10937 h -99.84861 z m 201.81834,0 h -99.84861 v 126.10937 h 99.84861 z" />
+      <path
+         id="rect6"
+         style="display:inline;fill:#b61c1c;stroke:#000000;stroke-width:0"
+         d="M 600,90.483642 V 195.70705 L 216.18359,503.01796 163.1473,437.51729 Z m 4e-5,0 V 195.70705 l 383.81641,307.31091 53.03625,-65.50067 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="roof"
+         inkscape:original-d="M 600,90.483642 V 195.70705 L 216.18359,503.01796 163.1473,437.51729 Z" />
+    </g>
+    <rect
+       style="fill:#fd8c64;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect15"
+       width="31.631001"
+       height="120.59332"
+       x="653.3786"
+       y="828.77173"
+       inkscape:label="door-handle"
+       rx="20"
+       ry="20" />
+  </g>
+</svg>
