@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="600"
+   viewBox="0 0 600 600"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="tiktok-make.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:export-bgcolor="#ffffffff"><inkscape:page
+       x="0"
+       y="0"
+       width="600"
+       height="600"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="rect1"
+       style="fill:#fd8c64;fill-opacity:0;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="border"
+       d="m 558.48499,394.39947 v 116.67186 c 0,22.16 -17.84,40 -40,40 H 81.515015 c -22.16,0 -40,-17.84 -40,-40 V 88.928665 c 0,-22.16 17.84,-40 40,-40 H 518.48499 c 22.16,0 40,17.84 40,40 V 342.99903"
+       sodipodi:nodetypes="cssssssssc" /><path
+       id="path1"
+       style="fill:#fd8c64;fill-opacity:0;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       d="m 339.2168,122.61328 h -44.05469 v 265.30664 c 0,27.0215 -21.90428,48.92578 -48.92578,48.92578 -27.0215,0 -48.92774,-21.90428 -48.92774,-48.92578 0,-27.0215 21.90624,-48.92773 48.92774,-48.92773 V 290.25 c -51.35159,0 -92.98047,43.72917 -92.98047,97.66992 0,53.94075 41.62888,97.66797 92.98047,97.66797 51.35159,0 92.98047,-43.72722 92.98047,-97.66797 V 212.52101 c 0,0 33.14681,45.48733 115.47933,50.41197 V 208.56714 C 392.13301,209.57038 353.16051,174.01371 339.2168,122.61328 Z"
+       inkscape:label="tiktok"
+       sodipodi:nodetypes="ccsssccssscccc" /></g></svg>
